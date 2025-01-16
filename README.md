@@ -1,5 +1,7 @@
 
-# Consultas MongoDB - Óptica
+# Óptica “Cul d’Ampolla” - Base de Datos MongoDB
+
+Este proyecto aborda el diseño de bases de datos en MongoDB para informatizar la gestión de clientes, productos, proveedores y empleados de una óptica.
 
 📄 **Descripción**  
 Este proyecto contiene ejercicios de MongoDB relacionados con la gestión de datos de una óptica. Las colecciones incluyen información sobre clientes y gafas, con detalles como compras realizadas, proveedores y empleados.
