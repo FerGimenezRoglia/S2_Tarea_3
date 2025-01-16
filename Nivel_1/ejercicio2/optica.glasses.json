@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "67865e1d2505546fd594b6e4"
+  },
+  "brand": "Ray-Ban",
+  "frame_type": "metálica",
+  "price": 120.5,
+  "prescription": {
+    "right_eye": 1.5,
+    "left_eye": 1.75
+  },
+  "glass_color": {
+    "right_eye": "transparente",
+    "left_eye": "transparente"
+  },
+  "customers": [
+    {
+      "name": "Ana Pérez",
+      "telephone": "+34 654 321 987",
+      "email": "ana.perez@example.com",
+      "registration_date": {
+        "$date": "2025-01-01T10:00:00.000Z"
+      },
+      "recommended_by": "Pedro López"
+    }
+  ],
+  "supplier": {
+    "name": "OptiPro S.L.",
+    "address": {
+      "street": "Calle Mayor",
+      "number": 10,
+      "city": "Barcelona",
+      "postal_code": "08001",
+      "country": "España"
+    },
+    "phone": "+34 123 456 789",
+    "fax": "+34 987 654 321",
+    "nif": "B12345678"
+  },
+  "employee": {
+    "name": "Carlos Gómez"
+  }
+}]
